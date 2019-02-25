@@ -7,3 +7,6 @@ You just need to execute the code in directory where you want to create project 
 python3 show_anyway.py
 ~~~
 You can change PROJECT_NAME, APP_NAME, PYTHON_CMD(for example, python3 or python3.6).
+
+## Version
+My django version is 2.1.5.
